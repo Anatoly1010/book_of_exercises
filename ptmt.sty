@@ -1,0 +1,215 @@
+% This code snippet is a LaTeX preamble that loads various packages
+% for typesetting mathematical content.
+%\usepackage{unicode-math}
+
+\usepackage{braket}
+\usepackage{microtype}
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+
+\usepackage{graphicx} % Required for inserting images
+\graphicspath{ {./images/} }
+\usepackage{wrapfig}
+%\usepackage[fleqn]{amsmath} % for the equation* environment
+%\usepackage{gensymb}
+
+% The babel package is used for multilingual support.
+\usepackage{iftex}
+\iftutex
+% For LuaTeX or XeTeX Use Google's 
+% OpenType Noto fonts for typesetting
+% Russian text
+\usepackage{fontspec}
+
+\defaultfontfeatures{Ligatures={TeX}}
+\setmainfont{Noto Serif}
+\setsansfont{Noto Sans}
+\setmonofont{Noto Sans Mono}
+%\setmathfont{TeX Gyre Pagella Math}
+\else
+% For pdfTeX we must use old
+% 8-bit font technologies
+\usepackage[T2A]{fontenc}
+\fi
+
+%\usepackage[version=4,arrows=pgf-filled,
+%textfontname=notoserif, mathfontname=notoserif
+%]{mhchem}
+%\usepackage{chemfig}
+\usepackage{csquotes}
+
+%Hyphenation rules
+\usepackage{hyphenat}
+\usepackage[english, russian]{babel}
+
+\addto\captionsrussian{\renewcommand{\contentsname}{Содержание}}
+\addto\captionsrussian{\renewcommand{\bibname}{Список литературы}}
+%style=chem-acs
+%\usepackage[style=chem-acs,bibencoding=utf8]{biblatex}
+\usepackage[backend=biber, style=chem-acs]{biblatex}
+\addbibresource{references.bib}
+
+\usepackage{xfrac}
+
+\usepackage[sc]{mathpazo}
+
+% The amsfonts package provides additional mathematical fonts.
+\usepackage{amsfonts}
+
+% The amsmath package enhances the typesetting of mathematical formulas
+% and provides various additional math environments and symbols.
+\usepackage{amsmath}
+
+% The amssymb package provides a collection of additional mathematical symbols.
+\usepackage{amssymb}
+
+% The 'amsthm' package provides enhanced theorem environments.
+\usepackage{amsthm}
+
+% The mathalpha package 
+%is used to customize the math alphabet in the document.
+% Here, it sets the calligraphic math alphabet to "boondoxo".
+% Note: This package requires the "boondox" font family.
+\usepackage[cal = boondoxo]{mathalpha}
+
+% The geometry package is used to customize the page margins.
+\usepackage[rmargin = 1.85cm, lmargin = 1.85cm, bmargin = 2cm, tmargin = 2cm]{geometry}
+
+% The algorithm2e package provides algorithms and customizable algorithm environments.
+\usepackage[algoruled]{algorithm2e}
+
+\usepackage{gensymb}
+
+\usepackage{emptypage}
+
+% The booktabs package enhances the quality of tables in the document.
+\usepackage{booktabs}
+
+% The bxpdfver package is used to set the PDF version to 2.0.
+\usepackage[2.0, compress]{bxpdfver}
+
+% The csquotes package provides advanced quoting facilities.
+%\usepackage{csquotes}
+
+% The setspace package is used to set the spacing between lines in the document.
+\usepackage[onehalfspacing]{setspace}
+
+% The enumitem package is used to customize the formatting of itemized and enumerated lists.
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=*, nosep, noitemsep}
+\setlist[enumerate]{leftmargin=*, nosep, noitemsep, label=(\arabic*)}
+
+% The fancyhdr package allows customization of headers and footers.
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\fancyfoot{}
+\fancyhead[LE, RO]{\thepage}
+\fancyhead[LO, RE]{\normalfont\rightmark}
+\renewcommand{\headrulewidth}{0.5pt}
+
+% The float package improves the handling of floating elements such as figures and tables.
+\usepackage{float}
+
+% The footmisc package provides more footnote options and symbols.
+\usepackage[bottom, hang, symbol]{footmisc}
+
+% The graphicx package is used for including images in the document.
+\usepackage{graphicx}
+
+% The hyperref package enables hyperlinks and provides options for PDF metadata and link colors.
+\usepackage[bookmarks = true, citecolor = black, colorlinks = true, frenchlinks = true, linkcolor = black, pdfencoding = auto, psdextra, urlcolor = blue]{hyperref}
+\hypersetup{
+    pdftitle = {Name of the Book},
+    pdfauthor = {First Author et al.},
+    pdfsubject = {computer science},
+    pdfkeywords = {computer science}
+ }
+
+\usepackage{bookmark}% faster updated bookmarks
+
+% The luainputenc package allows using Unicode characters with LuaLaTeX.
+\usepackage[utf8x]{luainputenc}
+
+% The mdframed package provides customizable framed boxes.
+\usepackage{mdframed}
+
+% The parskip package sets the space between paragraphs.
+\usepackage{parskip}
+
+% The ragged2e package provides additional options for paragraph alignment.
+\usepackage{ragged2e}
+%\usepackage{physics}
+
+\usepackage[usestackEOL]{stackengine}[2013-10-15]
+\def\x{\hspace{3ex}}    %BETWEEN TWO 1-DIGIT NUMBERS
+\def\y{\hspace{2.45ex}}  %BETWEEN 1 AND 2 DIGIT NUMBERS
+\def\z{\hspace{1.9ex}}    %BETWEEN TWO 2-DIGIT NUMBERS
+\stackMath
+
+\usepackage[nottoc,numbib]{tocbibind}
+\renewcommand{\bibname}{Список Литературы}
+
+% The titlesec package is used for customizing the formatting of section headings.
+
+% The \titleformat command is used to customize the format of a specific sectioning command.
+% Here, we are customizing the format of chapter headings.
+
+% \titleformat syntax:
+% \titleformat{command}[shape]{format}{label}{sep}{before}[after]
+
+% The command to be formatted is \chapter, which is a chapter heading.
+
+% 'display' shape means the title will be displayed on a new line, occupying the whole text width.
+
+% The format for the chapter heading is set to be bold and huge (\bfseries\huge).
+
+% The label for the chapter heading consists of the chapter name (\chaptertitlename) and the chapter number (\thechapter).
+% They will be right-aligned with a separation of 1ex from the chapter title.
+
+% The before-code is used to draw a horizontal line (\titlerule) and add vertical space (1ex) above the chapter title.
+% The chapter title will be left-aligned (\filleft) relative to this line.
+
+% The after-code is used to add vertical space (1ex) and draw another horizontal line (\titlerule) after the chapter title.
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\bfseries\Large}
+  {\filright }
+  {1ex}
+  {\titlerule\vspace{1ex}\filleft}
+  [\vspace{2.2ex}\titlerule]
+
+  
+% The xcolor package allows defining and using colors in the document.
+\usepackage{xcolor}
+
+% The secnumdepth counter controls the level of section numbering depth.
+% Here, it is set to 5, which means all sectional units up to \subparagraph will be numbered.
+\setcounter{secnumdepth}{2}
+
+% The tocdepth counter controls the level of section entries displayed in the table of contents.
+% Here, it is set to 5, which means all sectional units up to \subparagraph will be included in the table of contents.
+\setcounter{tocdepth}{2}
+
+\titleformat{\section}[hang]
+{\normalfont\normalsize\bfseries}
+{\thesection}{0.3em}{}
+%1.5ex plus .1ex minus .2ex
+\titlespacing{\section}{0pc}{1.5ex plus .1ex minus .2ex}{0.5pc}
+
+\titleformat{\subsection}[hang]
+{\normalfont\small\bfseries}
+{\thesubsection}{0.3em}{}
+
+\titlespacing{\subsection}{0pc}{1.5ex plus .1ex minus .2ex}{0.5pc}
+
+% The following command defines a new command called \undersign.
+% When you use \undersign in the document, it will produce a specific formatted text.
+\newcommand{\undersign}{%
+    \begin{flushright}
+        \vfill
+        First Author {\normalfont\textit{\&}} Second Author
+        \rmfamily\normalfont
+    \end{flushright}
+}

@@ -1,0 +1,60 @@
+% This code snippet creates a title page for a book.
+
+%\setmainfont{Noto Sans}
+%\setsansfont{Noto Sans}
+%\setmonofont{Noto Sans Mono}
+
+% The 'titlepage' environment starts the title page.
+\begin{titlepage}
+    \centering
+    \small НОВОСИБИРСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСТИТЕТ\\
+    КАФЕДРА ФИЗИЧЕСКОЙ ХИМИИ\\
+    \vspace{14px}
+    % The 'colorbox' is used to create a colored background for the book title and subtitle.
+    % 'black!5' sets the color to 5% black (a light gray shade).
+    \colorbox{white}{
+        % The first 'parbox' is used to center the title and subtitle within the colored background.
+        \parbox[t]{0.975\textwidth}{%
+            % The second 'parbox' is used to center the title and subtitle text.
+            \parbox[t]{0.95\textwidth}{%
+                % Right-align the title and subtitle text, and set it in uppercase and huge font size.
+                \centering\vspace{0.75cm}\huge\scshape
+		%\setmainfont{Noto Sans}
+                \textbf{СБОРНИК ЗАДАЧ\\ПО СТРОЕНИЮ ВЕЩЕСТВА} \\[3.5pt]
+		%\setmainfont{Noto Serif}
+                \large\bf
+               % \vspace{0.5cm}
+            }
+        }
+    }
+    
+    \vspace{16px}
+    \centering \normalsize Мельников А.Р., Матвеева А.Г., Афимченко Н.А., Бакаев И.В., Алексеев В.А., Кравец Н.В., Михейлис А.В.
+    % Vertically space the content evenly, pushing the text to the center of the page.
+    \vspace{18px}
+	\begin{figure}[h]
+	    \centering
+	    \includegraphics[width=0.73\textwidth]{images/title.png}
+	\end{figure}
+
+	%\vfill
+
+    %, Ничипоренко В.А.
+    % The first 'parbox' is used to display horizontal rules on both sides of the authors' information.
+   % \parbox[t]{0.95\textwidth}{%
+        % Right-align the horizontal rule and add some vertical space above and below it.
+        %\hfill\rule{0.15\linewidth}{0.5pt}\\[7.5pt]
+        % Right-align the authors' names and affiliations.
+   %     \centering
+        %\:{Мельников Анатолий\textsuperscript{\textdagger}\\
+        %    Second Author\textsuperscript{\textdagger}}\\[4pt]
+        
+        % Display the superscript \textdagger symbol and authors' affiliations.
+        %\normalsize} 
+        %\\
+        %\normalsize
+        %2025\\
+        % Right-align the second horizontal rule.
+        %\hfill\rule{0.15\linewidth}{0.5pt}
+    %}
+\end{titlepage}

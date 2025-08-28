@@ -1,0 +1,140 @@
+% Document class with options: openright - chapters start on right-hand pages, twoside - two-sided layout, british - using British English language settings.
+\documentclass[openright,a5paper,twoside]{book}
+
+% Load the ptmt package, presumably for formatting.
+
+\usepackage{ptmt}
+
+% Load the blindtext package, which provides commands for generating dummy text.
+\usepackage{blindtext}
+
+% Set the title of the book.
+\title{Сборник задач по строению вещества}
+
+% Set the authors of the book (multiple authors separated by \and).
+\author{First Author \and Second Author}
+
+\setmainfont{Noto Serif}
+\setsansfont{Noto Sans}
+\setmonofont{Noto Sans Mono}
+
+
+% Set the date to the current date.
+%\date{\today}
+
+% Begin the document.
+\begin{document}
+
+% Front matter section.
+\frontmatter
+% Include the title page, which is located in the FrontMatter subfolder.
+\include{./FrontMatter/titlepage}
+
+% Create the book's title page.
+%\maketitle\pagebreak
+
+% Include the dedication page from the FrontMatter subfolder.
+%\include{./FrontMatter/dedication}
+
+% Include the epigraph page from the FrontMatter subfolder.
+%\include{./FrontMatter/epigraph}
+
+% Include the foreword page from the FrontMatter subfolder.
+%\include{./FrontMatter/foreword}
+
+% Include the preface page from the FrontMatter subfolder.
+\include{./FrontMatter/preface}
+%\thispagestyle{empty}
+
+% Include the acknowledgement page from the FrontMatter subfolder.
+%\include{./FrontMatter/acknowledgement}
+
+% Table of contents page.
+\footnotesize
+\tableofcontents
+
+% Main matter section.
+\mainmatter
+
+% Part 1: Preliminaries.
+\chapter[Описание электронного строения  атомов и молекул]{\texorpdfstring{Описание электронного строения\\атомов и молекул}{Описание электронного строения  атомов и молекул}}
+\thispagestyle{empty}
+
+% Include Chapter 1 from the MainMatter subfolder.
+
+\input{./MainMatter/Chapter_1.1}
+\input{./MainMatter/Chapter_1.2}
+\input{./MainMatter/Chapter_1.3}
+\input{./MainMatter/Chapter_1.4}
+\input{./MainMatter/Chapter_1.5}
+\input{./MainMatter/Chapter_1.6}
+\input{./MainMatter/Chapter_1.7}
+\input{./MainMatter/Chapter_1.8}
+\input{./MainMatter/Chapter_1.9}
+
+
+\chapter[Электронное строение координационных соединений.\\Спектроскопические методы исследования вещества]{\texorpdfstring{Электронное строение\\координационных соединений.\\Спектроскопические методы исследования вещества}{Электронное строение координационных соединений. Спектроскопические методы исследования вещества}}
+\thispagestyle{empty}
+
+\input{./MainMatter/Chapter_2.1}
+\input{./MainMatter/Chapter_2.2}
+\input{./MainMatter/Chapter_2.3}
+\input{./MainMatter/Chapter_2.4}
+\input{./MainMatter/Chapter_2.5}
+\input{./MainMatter/Chapter_2.6}
+\input{./MainMatter/Chapter_2.7}
+\input{./MainMatter/Chapter_2.8}
+\input{./MainMatter/Chapter_2.9}
+
+\chapter[Список теоретических вопросов]{Список теоретических вопросов}
+\thispagestyle{empty}
+
+\input{./BackMatter/Theory}
+
+% Appendices section.
+%\appendix
+
+% Include the foreword page from the FrontMatter subfolder.
+\chapter{Справочные данные}
+%\addcontentsline{toc}{chapter}{Справочные данные}
+\thispagestyle{empty}
+\include{./BackMatter/spavochnik1}
+
+% Include the "about" appendix from the BackMatter subfolder.
+%\include{./BackMatter/about}
+
+% Include the "abbreviation" appendix from the BackMatter subfolder.
+\chapter{Ответы и указания}
+%\addcontentsline{toc}{chapter}{Ответы и указания}
+\thispagestyle{empty}
+\include{./BackMatter/answers}
+
+% Include the "notation" appendix from the BackMatter subfolder.
+%\include{./BackMatter/notation}
+
+% Include the "code" appendix from the BackMatter subfolder.
+%\include{./BackMatter/code}
+
+% Include the "glossary" appendix from the BackMatter subfolder.
+%\include{./BackMatter/glossary}
+
+% Include the "index" appendix from the BackMatter subfolder.
+%\include{./BackMatter/index}
+
+% Include the "references" appendix from the BackMatter subfolder.
+%\bibliography{references.bib}
+%\bibliographystyle{ieeetr}
+%\nocite{*}
+%\addcontentsline{toc}{chapter}{Список литературы}
+%\thispagestyle{empty}
+
+
+%%\bibliography{references.bib}
+%\thispagestyle{empty}
+%%\bibliographystyle{ieeetr}
+\renewcommand*{\bibfont}{\footnotesize}
+\nocite{*}
+\printbibliography[heading=bibnumbered, title={Список литературы}]
+%heading=bibnumbered, bibintoc
+% End the document.
+\end{document}

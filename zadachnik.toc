@@ -1,0 +1,62 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Описание электронного строения атомов и молекул}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Угловой момент, сложение моментов}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Термы многоэлектронного атома}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Дипольные переходы между термами}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Многоэлектронный атом во внешних полях}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Правила Вигнера-Витмера}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Электронное строение двухатомных молекул}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Электронное строение многоатомных молекул}{10}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Специальные хюккелевские системы}{12}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Применение теории возмущений}{13}{section.1.9}%
+\contentsline {chapter}{\numberline {2}Электронное строение координационных соединений.\\Спектроскопические методы исследования вещества}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Правила Вудворда-Хоффмана}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Теория кристаллического поля}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Электронная спектроскопия}{19}{section.2.3}%
+\contentsline {section}{\numberline {2.4}ИК и КР спектроскопии}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Эффект Яна-Теллера}{23}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Вращательная спектроскопия и ее производные}{24}{section.2.6}%
+\contentsline {section}{\numberline {2.7}ЭПР спектроскопия}{26}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Химический обмен в магнитном резонансе}{27}{section.2.8}%
+\contentsline {section}{\numberline {2.9}ЯМР спектроскопия}{28}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Список теоретических вопросов}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Описание электронного строения атомов и молекул}{32}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Электронное строение координационных соединений.\\Спектроскопические методы исследования вещества}{35}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Справочные данные}{39}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Вид некоторых сферических гармоник}{40}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Действительный вид некоторых сферических гармоник}{41}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Некоторые таблицы характеров}{42}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Эквивалентные операторы для интегралов с $\textit {Y}_{2m}$}{45}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Эквивалентные операторы для интегралов с $\textit {Y}_{1m}$}{46}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Симметрия нормальных колебаний}{46}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Симметрия сферических гармоник}{47}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Некоторые ядерные спины}{47}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Суммы некоторых рядов}{47}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Тригонометрические формулы}{48}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Вид некоторых радиальных функций}{48}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Энергии, молекулярные орбитали некоторых систем}{49}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Общие решения некоторых специальных систем}{50}{section.4.13}%
+\contentsline {subsection}{\numberline {4.13.1}Циклические системы}{50}{subsection.4.13.1}%
+\contentsline {subsection}{\numberline {4.13.2}Линейные системы}{51}{subsection.4.13.2}%
+\contentsline {subsection}{\numberline {4.13.3}Альтернантные системы}{51}{subsection.4.13.3}%
+\contentsline {chapter}{\numberline {5}Ответы и указания}{53}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Описание электронного строения атомов и молекул}{54}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Угловой момент. Сложение моментов}{54}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Термы многоэлектронных атомов}{58}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Дипольные переходы между термами}{61}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Многоэлектронный атом во внешних полях}{62}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Правила Вигнера-Витмера}{63}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Электронное строение двухатомных молекул}{64}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Электронное строение многоатомных молекул}{65}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Специальные хюккелевские системы}{70}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}Применение теории возмущений}{72}{subsection.5.1.9}%
+\contentsline {section}{\numberline {5.2}Спектроскопические методы исследования вещества}{77}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Правила Вудворда-Хоффмана}{77}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Теория кристаллического поля}{81}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Электронная спектроскопия}{82}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}ИК и КР спектроскопии}{83}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Эффект Яна-Теллера}{84}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Вращательная спектроскопия и ее производные}{85}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}ЭПР спектроскопия}{87}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Химический обмен в магнитном резонансе}{88}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}ЯМР спектроскопия}{89}{subsection.5.2.9}%

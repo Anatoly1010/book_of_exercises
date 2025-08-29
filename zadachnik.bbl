@@ -1,0 +1,203 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{atkins2010}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=768c9606afd59ac272ce600d425a08c7}{%
+           family={Atkins},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f5dcfac18aa35a441f7797929c4b3a87}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{adb59290e2150644f98149891e955c79}
+      \strng{fullhash}{adb59290e2150644f98149891e955c79}
+      \strng{fullhashraw}{adb59290e2150644f98149891e955c79}
+      \strng{bibnamehash}{adb59290e2150644f98149891e955c79}
+      \strng{authorbibnamehash}{adb59290e2150644f98149891e955c79}
+      \strng{authornamehash}{adb59290e2150644f98149891e955c79}
+      \strng{authorfullhash}{adb59290e2150644f98149891e955c79}
+      \strng{authorfullhashraw}{adb59290e2150644f98149891e955c79}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5th}
+      \field{isbn}{978-0199541423}
+      \field{title}{Molecular Quantum Mechanics}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{plus2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=91a6c75c3321e282355c97f13a54940b}{%
+           family={Плюснин},
+           familyi={П\bibinitperiod},
+           given={ВФ},
+           giveni={В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Новосибирск}%
+      }
+      \list{publisher}{1}{%
+        {Издательство НГУ}%
+      }
+      \strng{namehash}{91a6c75c3321e282355c97f13a54940b}
+      \strng{fullhash}{91a6c75c3321e282355c97f13a54940b}
+      \strng{fullhashraw}{91a6c75c3321e282355c97f13a54940b}
+      \strng{bibnamehash}{91a6c75c3321e282355c97f13a54940b}
+      \strng{authorbibnamehash}{91a6c75c3321e282355c97f13a54940b}
+      \strng{authornamehash}{91a6c75c3321e282355c97f13a54940b}
+      \strng{authorfullhash}{91a6c75c3321e282355c97f13a54940b}
+      \strng{authorfullhashraw}{91a6c75c3321e282355c97f13a54940b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{5-230-13579-4}
+      \field{title}{Курс "Cтроение вещества". Сборник задач с решениями}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{stas2008}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d37fc2dfdfaf7068264ca83bb32607e}{%
+           family={Стась},
+           familyi={С\bibinitperiod},
+           given={ДВ},
+           giveni={Д\bibinitperiod}}}%
+        {{hash=91a6c75c3321e282355c97f13a54940b}{%
+           family={Плюснин},
+           familyi={П\bibinitperiod},
+           given={ВФ},
+           giveni={В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Новосибирск}%
+      }
+      \list{publisher}{1}{%
+        {Издательство НГУ}%
+      }
+      \strng{namehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{fullhash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{fullhashraw}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{bibnamehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authorbibnamehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authornamehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authorfullhash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authorfullhashraw}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-5-94356-719-3}
+      \field{title}{Квантовая механика молекул. Часть 1. Атом}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{stas2013}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d37fc2dfdfaf7068264ca83bb32607e}{%
+           family={Стась},
+           familyi={С\bibinitperiod},
+           given={ДВ},
+           giveni={Д\bibinitperiod}}}%
+        {{hash=91a6c75c3321e282355c97f13a54940b}{%
+           family={Плюснин},
+           familyi={П\bibinitperiod},
+           given={ВФ},
+           giveni={В\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Новосибирск}%
+      }
+      \list{publisher}{1}{%
+        {Издательство НГУ}%
+      }
+      \strng{namehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{fullhash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{fullhashraw}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{bibnamehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authorbibnamehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authornamehash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authorfullhash}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \strng{authorfullhashraw}{e31c7ea5d04d7df3974acd8f3b091d3d}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-5-4437-0125-7}
+      \field{title}{Квантовая механика молекул. Часть 2. Простые молекулярные системы}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{baz1979}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=ca989c0df237b3ab4b598820d963fa30}{%
+           family={Бажин},
+           familyi={Б\bibinitperiod},
+           given={НМ},
+           giveni={Н\bibinitperiod}}}%
+        {{hash=0b8f2a63c0a6dafdc977fa0cc4ae30c4}{%
+           family={Войтюк},
+           familyi={В\bibinitperiod},
+           given={АА},
+           giveni={А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Новосибирск}%
+      }
+      \list{publisher}{1}{%
+        {Издательство НГУ}%
+      }
+      \strng{namehash}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{fullhash}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{fullhashraw}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{bibnamehash}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{authorbibnamehash}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{authornamehash}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{authorfullhash}{02d8503b1bf75901fce7171d7ab53dbd}
+      \strng{authorfullhashraw}{02d8503b1bf75901fce7171d7ab53dbd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-5-4437-0125-7}
+      \field{title}{Задачи по строению вещества}
+      \field{year}{1979}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

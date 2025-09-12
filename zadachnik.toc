@@ -45,19 +45,19 @@
 \contentsline {subsection}{\numberline {5.1.2}Термы многоэлектронных атомов}{58}{subsection.5.1.2}%
 \contentsline {subsection}{\numberline {5.1.3}Дипольные переходы между термами}{61}{subsection.5.1.3}%
 \contentsline {subsection}{\numberline {5.1.4}Многоэлектронный атом во внешних полях}{62}{subsection.5.1.4}%
-\contentsline {subsection}{\numberline {5.1.5}Правила Вигнера-Витмера}{65}{subsection.5.1.5}%
-\contentsline {subsection}{\numberline {5.1.6}Электронное строение двухатомных молекул}{66}{subsection.5.1.6}%
-\contentsline {subsection}{\numberline {5.1.7}Электронное строение многоатомных молекул}{67}{subsection.5.1.7}%
-\contentsline {subsection}{\numberline {5.1.8}Специальные хюккелевские системы}{72}{subsection.5.1.8}%
-\contentsline {subsection}{\numberline {5.1.9}Применение теории возмущений}{74}{subsection.5.1.9}%
-\contentsline {section}{\numberline {5.2}Спектроскопические методы исследования вещества}{79}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Правила Вудворда-Хоффмана}{79}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Теория кристаллического поля}{83}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Электронная спектроскопия}{84}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}ИК и КР спектроскопии}{85}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Эффект Яна-Теллера}{86}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Вращательная спектроскопия и ее производные}{87}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}ЭПР спектроскопия}{89}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}Химический обмен в магнитном резонансе}{90}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}ЯМР спектроскопия}{91}{subsection.5.2.9}%
-\contentsline {chapter}{\numberline {6}Список литературы}{93}{chapter.6}%
+\contentsline {subsection}{\numberline {5.1.5}Правила Вигнера-Витмера}{66}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Электронное строение двухатомных молекул}{67}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Электронное строение многоатомных молекул}{69}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Специальные хюккелевские системы}{74}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}Применение теории возмущений}{76}{subsection.5.1.9}%
+\contentsline {section}{\numberline {5.2}Спектроскопические методы исследования вещества}{81}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Правила Вудворда-Хоффмана}{81}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Теория кристаллического поля}{85}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Электронная спектроскопия}{86}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}ИК и КР спектроскопии}{87}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Эффект Яна-Теллера}{88}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Вращательная спектроскопия и ее производные}{89}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}ЭПР спектроскопия}{91}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Химический обмен в магнитном резонансе}{92}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}ЯМР спектроскопия}{93}{subsection.5.2.9}%
+\contentsline {chapter}{\numberline {6}Список литературы}{95}{chapter.6}%

@@ -53,11 +53,11 @@
 \contentsline {section}{\numberline {5.2}Спектроскопические методы исследования вещества}{82}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}Правила Вудворда-Хоффмана}{82}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}Теория кристаллического поля}{86}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Электронная спектроскопия}{89}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}ИК и КР спектроскопии}{90}{subsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.2.5}Эффект Яна-Теллера}{91}{subsection.5.2.5}%
-\contentsline {subsection}{\numberline {5.2.6}Вращательная спектроскопия и ее производные}{92}{subsection.5.2.6}%
-\contentsline {subsection}{\numberline {5.2.7}ЭПР спектроскопия}{94}{subsection.5.2.7}%
-\contentsline {subsection}{\numberline {5.2.8}Химический обмен в магнитном резонансе}{95}{subsection.5.2.8}%
-\contentsline {subsection}{\numberline {5.2.9}ЯМР спектроскопия}{96}{subsection.5.2.9}%
-\contentsline {chapter}{\numberline {6}Список литературы}{97}{chapter.6}%
+\contentsline {subsection}{\numberline {5.2.3}Электронная спектроскопия}{91}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}ИК и КР спектроскопии}{92}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Эффект Яна-Теллера}{93}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Вращательная спектроскопия и ее производные}{94}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}ЭПР спектроскопия}{96}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}Химический обмен в магнитном резонансе}{97}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}ЯМР спектроскопия}{98}{subsection.5.2.9}%
+\contentsline {chapter}{\numberline {6}Список литературы}{99}{chapter.6}%

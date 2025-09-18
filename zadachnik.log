@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  17 SEP 2025 15:49
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  18 SEP 2025 12:08
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2407,8 +2407,16 @@ Underfull \vbox (badness 1776) has occurred while \output is active []
 [86]
 
 [87]
+Underfull \vbox (badness 2626) has occurred while \output is active []
+
+
 
 [88]
+Missing character: There is no а (U+0430) in font zplmr7m!
+
+Underfull \vbox (badness 2088) has occurred while \output is active []
+
+
 
 [89]
 
@@ -2424,11 +2432,15 @@ Underfull \vbox (badness 1776) has occurred while \output is active []
 
 [95]
 
-[96])
+[96]
+
+[97]
+
+[98])
 Глава 6.
 
 
-[97
+[99
 
 
 
@@ -2444,13 +2456,13 @@ Package logreq Info: Writing requests to 'zadachnik.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33428 strings out of 475518
+ 33430 strings out of 475518
  100000,1977958 words of node,token memory allocated
- 1770 words of node memory still in use:
+ 1788 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
-, 3 glyph, 252 attribute, 144 glue_spec, 127 attribute_list, 1 write, 2 pdf_acti
+, 3 glyph, 258 attribute, 144 glue_spec, 130 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:10,2:2943,3:408,4:323,5:653,6:137,7:7317,8:108,9:1981,10:29,11
+   avail lists: 1:10,2:2934,3:408,4:323,5:653,6:137,7:7317,8:108,9:1981,10:29,11
 :982
  54636 multiletter control sequences out of 65536+600000
  531 fonts using 67406223 bytes
@@ -2475,9 +2487,9 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (103 pages, 5012938 bytes).
+Output written on zadachnik.pdf (105 pages, 5020704 bytes).
 
-PDF statistics: 945 PDF objects out of 1000 (max. 8388607)
- 173 named destinations out of 1000 (max. 131072)
+PDF statistics: 953 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 131072)
  497 words of extra memory for PDF output out of 10000 (max. 100000000)
 

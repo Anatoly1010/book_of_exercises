@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  6 NOV 2025 09:19
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  12 JAN 2026 13:23
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -1694,7 +1694,27 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 3.
 
 
-[5])
+[5]
+Overfull \hbox (1.01598pt too wide) detected at line 59
+ []\TU/NotoSerif(0)/m/n/8 101
+ []
+
+
+Overfull \hbox (1.01598pt too wide) detected at line 60
+ []\TU/NotoSerif(0)/m/n/8 105
+ []
+
+
+Overfull \hbox (1.01598pt too wide) detected at line 61
+ []\TU/NotoSerif(0)/m/n/8 109
+ []
+
+
+Overfull \hbox (1.01598pt too wide) detected at line 62
+ []\TU/NotoSerif(0)/m/n/8 112
+ []
+
+)
 \tf@toc=\write4
 
 \openout4 = zadachnik.toc
@@ -2428,8 +2448,22 @@ Package luatex.def Info: images/Fig_2_2_15_dec.png  used on input line 548.
 [91<./images/Fig_2_2_15_dec.png>]
 
 [92]
+Underfull \vbox (badness 1715) has occurred while \output is active []
+
+
 
 [93]
+Overfull \hbox (0.10754pt too wide) in paragraph at lines 591--591
+\TU/NotoSerif(0)/m/n/8 но-фор рас-пре-де-лен рав-но-ме
+р-но по об-раз-цу, то-гда $[] \OMS/zplm/m/n/8  \OT1/zplm/m/n/
+8 ([] \OML/zplm/m/it/8  [] \OT1/pplx/m/n/8 ,  [] \OML/zplm/m/it/8  [] \OT1/
+pplx/m/n/8 ,  [] \OML/zplm/m/it/8 \OT1/zplm/m/n/8 )$\TU/NotoSerif(0)/m/n/8 ,
+ []
+
+
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+
 
 [94]
 
@@ -2440,19 +2474,59 @@ Package luatex.def Info: images/Fig_2_2_15_dec.png  used on input line 548.
 [97]
 
 [98]
+<images/Fig_2_5_7_dec.png, id=687, 480.47505pt x 157.66905pt>
+File: images/Fig_2_5_7_dec.png Graphic file (type png)
+<use images/Fig_2_5_7_dec.png>
+Package luatex.def Info: images/Fig_2_5_7_dec.png  used on input line 646.
+(luatex.def)             Requested size: 199.16928pt x 65.35684pt.
 
-[99])
-
-[100
+Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
 
-]
+[99<./images/Fig_2_5_7_dec.png>]
+
+[100]
+
+[101]
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[102]
+
+[103]
+
+[104]
+
+[105]
+
+[106]
+
+[107]
+
+[108]
+
+[109]
+
+[110]
+
+[111]
+
+[112]
+
+[113]
+
+[114])
 Глава 6.
 
 
-[101] (./zadachnik.aux (./FrontMatter/titlepage.aux) (./FrontMatter/preface.aux
-) (./BackMatter/spavochnik1.aux) (./BackMatter/answers.aux))
+[115
+
+
+
+] (./zadachnik.aux (./FrontMatter/titlepage.aux) (./FrontMatter/preface.aux) (.
+/BackMatter/spavochnik1.aux) (./BackMatter/answers.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -2463,15 +2537,15 @@ Package logreq Info: Writing requests to 'zadachnik.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33442 strings out of 475518
+ 33472 strings out of 475518
  100000,1977958 words of node,token memory allocated
- 1806 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
-, 3 glyph, 264 attribute, 144 glue_spec, 133 attribute_list, 1 write, 2 pdf_acti
+ 1857 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
+, 3 glyph, 278 attribute, 144 glue_spec, 140 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:11,2:2925,3:408,4:323,5:654,6:137,7:7318,8:108,9:1981,10:29,11
-:988
- 54643 multiletter control sequences out of 65536+600000
+   avail lists: 1:15,2:2909,3:412,4:331,5:658,6:138,7:7800,8:111,9:1982,10:30,11
+:1090
+ 54656 multiletter control sequences out of 65536+600000
  531 fonts using 67406223 bytes
  94i,20n,105p,2786b,3701s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/truetype/google/noto/notoseri
@@ -2494,9 +2568,9 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (107 pages, 5099143 bytes).
+Output written on zadachnik.pdf (121 pages, 6180477 bytes).
 
-PDF statistics: 963 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 131072)
+PDF statistics: 1033 PDF objects out of 1200 (max. 8388607)
+ 191 named destinations out of 1000 (max. 131072)
  497 words of extra memory for PDF output out of 10000 (max. 100000000)
 

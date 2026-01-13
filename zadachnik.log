@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  12 JAN 2026 13:23
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  13 JAN 2026 14:58
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2502,16 +2502,65 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 [105]
 
 [106]
+<images/Fig_2_7_10_dec.png, id=724, 370.45602pt x 324.20322pt>
+File: images/Fig_2_7_10_dec.png Graphic file (type png)
+<use images/Fig_2_7_10_dec.png>
+Package luatex.def Info: images/Fig_2_7_10_dec.png  used on input line 688.
+(luatex.def)             Requested size: 194.90137pt x 170.56541pt.
 
-[107]
+Underfull \hbox (badness 3250) in paragraph at lines 691--691
+\TU/NotoSerif(0)/m/n/8 ви-ва-лент-ных ядер рав-на:
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 691--691
+\TU/NotoSerif(0)/m/n/8 где $\OML/zplm/m/it/8 F$ \TU/NotoSerif(0)/m/n/8 – 
+пол-ный ядер-ный
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 691--691
+\TU/NotoSerif(0)/m/n/8 спин, $\OML/zplm/m/it/8 M[]$ \TU/NotoSerif(0)/m/n/8 
+– его про-ек-ция
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[107<./images/Fig_2_7_10_dec.png>]
 
 [108]
+<images/Fig_2_8_2_dec.png, id=736, 370.31148pt x 332.15292pt>
+File: images/Fig_2_8_2_dec.png Graphic file (type png)
+<use images/Fig_2_8_2_dec.png>
+Package luatex.def Info: images/Fig_2_8_2_dec.png  used on input line 703.
+(luatex.def)             Requested size: 147.95433pt x 132.71182pt.
+<images/Fig_2_8_3_dec.png, id=737, 370.2633pt x 314.01315pt>
+File: images/Fig_2_8_3_dec.png Graphic file (type png)
+<use images/Fig_2_8_3_dec.png>
+Package luatex.def Info: images/Fig_2_8_3_dec.png  used on input line 710.
+(luatex.def)             Requested size: 147.95433pt x 125.47845pt.
 
-[109]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[110]
 
-[111]
+
+[109<./images/Fig_2_8_2_dec.png>]
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[110<./images/Fig_2_8_3_dec.png>]
+<images/Fig_2_8_6_dec.png, id=750, 375.65945pt x 383.031pt>
+File: images/Fig_2_8_6_dec.png Graphic file (type png)
+<use images/Fig_2_8_6_dec.png>
+Package luatex.def Info: images/Fig_2_8_6_dec.png  used on input line 719.
+(luatex.def)             Requested size: 147.95433pt x 150.85431pt.
+
+
+[111<./images/Fig_2_8_6_dec.png>]
 
 [112]
 
@@ -2537,15 +2586,15 @@ Package logreq Info: Writing requests to 'zadachnik.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33472 strings out of 475518
+ 33513 strings out of 475518
  100000,1977958 words of node,token memory allocated
  1857 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 278 attribute, 144 glue_spec, 140 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:15,2:2909,3:412,4:331,5:658,6:138,7:7800,8:111,9:1982,10:30,11
-:1090
- 54656 multiletter control sequences out of 65536+600000
+   avail lists: 1:14,2:2906,3:412,4:332,5:656,6:136,7:7801,8:113,9:1980,10:35,11
+:1045
+ 54685 multiletter control sequences out of 65536+600000
  531 fonts using 67406223 bytes
  94i,20n,105p,2786b,3701s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/truetype/google/noto/notoseri
@@ -2568,9 +2617,9 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 6180477 bytes).
+Output written on zadachnik.pdf (121 pages, 6773268 bytes).
 
-PDF statistics: 1033 PDF objects out of 1200 (max. 8388607)
+PDF statistics: 1041 PDF objects out of 1200 (max. 8388607)
  191 named destinations out of 1000 (max. 131072)
  497 words of extra memory for PDF output out of 10000 (max. 100000000)
 

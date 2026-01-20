@@ -2379,7 +2379,12 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">pearson1983</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">sugiyama2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">fessenden1963</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">adam1958</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">bowers1987</bcf:citekey>
+    <bcf:citekey order="6" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

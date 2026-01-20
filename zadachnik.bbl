@@ -19,6 +19,253 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{pearson1983}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f3cca533abde16b9524b0e772918c31a}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={Ralph\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3cca533abde16b9524b0e772918c31a}
+      \strng{fullhash}{f3cca533abde16b9524b0e772918c31a}
+      \strng{fullhashraw}{f3cca533abde16b9524b0e772918c31a}
+      \strng{bibnamehash}{f3cca533abde16b9524b0e772918c31a}
+      \strng{authorbibnamehash}{f3cca533abde16b9524b0e772918c31a}
+      \strng{authornamehash}{f3cca533abde16b9524b0e772918c31a}
+      \strng{authorfullhash}{f3cca533abde16b9524b0e772918c31a}
+      \strng{authorfullhashraw}{f3cca533abde16b9524b0e772918c31a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The second-order Jahn-Teller effect is an example of reactions proceeding by an interaction between the HOMO and the LUMO within the same molecule. The consequences can be decomposition of the molecule or a structural change. First the general theory is given, and then a number of examples are presented.}
+      \field{issn}{0166-1280}
+      \field{journaltitle}{Journal of Molecular Structure: THEOCHEM}
+      \field{title}{The second-order Jahn-Teller effect}
+      \field{volume}{103}
+      \field{year}{1983}
+      \field{pages}{25\bibrangedash 34}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0166-1280(83)85006-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0166128083850064
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0166128083850064
+      \endverb
+    \endentry
+    \entry{sugiyama2022}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=8c94623ec10c198d1b79b687f3ee0d30}{%
+           family={Sugiyama},
+           familyi={S\bibinitperiod},
+           given={Masafumi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8f1303123c5499078c10737a0993cc26}{%
+           family={Akiyama},
+           familyi={A\bibinitperiod},
+           given={Midori},
+           giveni={M\bibinitperiod}}}%
+        {{hash=190150bd0419e89e0236e4510b129353}{%
+           family={Yonezawa},
+           familyi={Y\bibinitperiod},
+           given={Yuki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8313bf8ff1b5239f62daa95ed6a24738}{%
+           family={Komaguchi},
+           familyi={K\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ac7eb120fd4bc570e3aa9c499db32bc4}{%
+           family={Higashi},
+           familyi={H\bibinitperiod},
+           given={Masahiro},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f555f04e813045b77d565c9bf2b8bce8}{%
+           family={Nozaki},
+           familyi={N\bibinitperiod},
+           given={Kyoko},
+           giveni={K\bibinitperiod}}}%
+        {{hash=59c1e60132ce735a08aeab64f03e1a8a}{%
+           family={Okazoe},
+           familyi={O\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{33b491fe067e67b7878a7ba5963ad394}
+      \strng{fullhash}{d541549382fb116786f7e8c7d320b7d7}
+      \strng{fullhashraw}{d541549382fb116786f7e8c7d320b7d7}
+      \strng{bibnamehash}{d541549382fb116786f7e8c7d320b7d7}
+      \strng{authorbibnamehash}{d541549382fb116786f7e8c7d320b7d7}
+      \strng{authornamehash}{33b491fe067e67b7878a7ba5963ad394}
+      \strng{authorfullhash}{d541549382fb116786f7e8c7d320b7d7}
+      \strng{authorfullhashraw}{d541549382fb116786f7e8c7d320b7d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fluorinated analogs of polyhedral hydrocarbons have been predicted to localize an electron within their cages upon reduction. Here, we report the synthesis and characterization of perfluorocubane, a stable polyhedral fluorocarbon. The key to the successful synthesis was the efficient introduction of multiple fluorine atoms to cubane by liquid-phase reaction with fluorine gas. The solid-state structure of perfluorocubane was confirmed using x-ray crystallography, and its electron-accepting character was corroborated electrochemically and spectroscopically. The radical anion of perfluorocubane was examined by matrix-isolation electron spin resonance spectroscopy, which revealed that the unpaired electron accepted by perfluorocubane is located predominantly inside the cage. The synthesis of a cube-shaped hydrocarbon nearly 60 years ago was a major event in chemistry, both because of the compound’s beautiful, high symmetry and its distinctly unnatural bonding geometry. Sugiyama et al. have now synthesized and structurally characterized a cubane derivative in which the hydrogen atoms at each vertex are replaced by fluorines (see the Perspective by Krafft and Riess). Consistent with theoretical predictions, low-temperature electron spin resonance spectroscopy suggests that the molecule centrally internalizes an electron upon reduction. —JSY A perfluorinated carbon cube internalizes an electron upon reduction.}
+      \field{journaltitle}{Science}
+      \field{number}{6607}
+      \field{title}{Electron in a cube: Synthesis and characterization of perfluorocubane as an electron acceptor}
+      \field{volume}{377}
+      \field{year}{2022}
+      \field{pages}{756\bibrangedash 759}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.abq0516
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.abq0516
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.abq0516
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.abq0516
+      \endverb
+    \endentry
+    \entry{fessenden1963}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=42a9ca696ecd89f91987214741b76ada}{%
+           family={Fessenden},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=20db3e2b03127a2fda6c70e5bea1b224}{%
+           family={Schuler},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6954db16a0708b69ca71d501f5c05004}
+      \strng{fullhash}{6954db16a0708b69ca71d501f5c05004}
+      \strng{fullhashraw}{6954db16a0708b69ca71d501f5c05004}
+      \strng{bibnamehash}{6954db16a0708b69ca71d501f5c05004}
+      \strng{authorbibnamehash}{6954db16a0708b69ca71d501f5c05004}
+      \strng{authornamehash}{6954db16a0708b69ca71d501f5c05004}
+      \strng{authorfullhash}{6954db16a0708b69ca71d501f5c05004}
+      \strng{authorfullhashraw}{6954db16a0708b69ca71d501f5c05004}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electron spin resonance methods have been used to observe alkyl radicals in liquid hydrocarbon systems during irradiation with 2.8‐MeV electrons. These investigations provide detailed structural, radiation chemical, and kinetic information about a large number of radicals.In general, in these studies the ESR lines are found to be narrow; considerable fine structure is observable, permitting positive assignment of the radical species. Accurate hyperfine constants are reported for 21 alkyl and cycloalkyl radicals (including several deuterated species), vinyl, 1‐methylvinyl, 3‐butenyl, allyl, and cyclohexadienyl radicals, and hydrogen and deuterium atoms. Except for cyclopropyl radical, all the alkyl and cycloalkyl radicals have α coupling constants in the range 21–23 G. The β coupling constants in cases where they have been rotationally averaged isotropically are found to decrease with increasing substitution of alkyl groups on the α carbon atom. In general the values for primary, secondary, and tertiary radicals appear to be represented by the splittings observed for the methyl protons in ethyl (26.87 G), isopropyl (24.68 G), and tert‐butyl (22.72 G) radicals. A possible explanation for this trend is discussed. A number of examples showing a significant departure from the above isotropically averaged values have been found. In several cases this departure, and the resultant strong temperature dependence of the β coupling constants, is taken as evidence for a barrier hindering rotation about the α‐carbon—β‐carbon bond. Splittings caused by γ protons and which range from 0.4 to 1.1 G have been resolved in five cases. A pronounced angular dependence of this coupling constant has been demonstrated in the case of propyl radical. This angular dependence is important in considerations of the mechanism of the γ hyperfine interaction. Three radicals which do not have the usual π‐electron configuration have been observed: vinyl, 1‐methylvinyl, and cyclopropyl. The splittings by the α protons of vinyl and cyclopropyl radicals are 13.39 and 6.51 G. These small values indicate that as the orbital associated with the unpaired electron acquires s character the coupling constant increases from ∼−23 G. The coupling constants for the two conjugated radicals, allyl and cyclohexadienyl, support the theoretical prediction of negative spin density at the unstarred positions of these odd‐alternant radicals. Spectra with relatively narrow lines are reported for transient species in a number of solid hydrocarbons.The radicals observed in various hydrocarbons are discussed in terms of the radiation chemical reactions expected in these systems. In most cases the radicals represent fragments which result from rupture of a single bond. In certain cases secondary reactions, such as the addition of hydrogen atoms to unsaturates, are also found to be important. The use of ESR methods in obtaining information concerning the rate of radical reactions is illustrated by two studies. In the first an activation energy of 3.3 kcal/mole is estimated for the addition of vinyl radicals to ethylene from measurements on the temperature dependence of the relative vinyl and 3‐butenyl radical concentrations in liquid ethylene. In the second the kinetics of the disappearance of ethyl radicals in liquid ethane are examined in detail. The absolute second‐order rate constant for this disappearance as obtained from absolute concentration and dose rate measurements is found to be 3×10 liters mole−1 sec−1 at −175°C. The activation energy for the reaction of ethyl radicals in liquid ethane is 780 cal/mole, or essentially that for the diffusion‐controlled process.}
+      \field{issn}{0021-9606}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{month}{11}
+      \field{number}{9}
+      \field{title}{Electron spin resonance studies of transient alkyl radicals}
+      \field{volume}{39}
+      \field{year}{1963}
+      \field{pages}{2147\bibrangedash 2195}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1063/1.1701415
+      \endverb
+      \verb{eprint}
+      \verb https://pubs.aip.org/aip/jcp/article-pdf/39/9/2147/18831546/2147_1_online.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.1701415
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.1701415
+      \endverb
+    \endentry
+    \entry{adam1958}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8cfa09911e8da4ebd3297563abbb8cc0}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={F.C.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f1304dafc113f1da2dc75467a4d7a3d4}{%
+           family={Weissman},
+           familyi={W\bibinitperiod},
+           given={S.I.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{fullhash}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{fullhashraw}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{bibnamehash}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{authorbibnamehash}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{authornamehash}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{authorfullhash}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \strng{authorfullhashraw}{a11cef63c3d42ac4a1dc95110a7d8273}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{6}
+      \field{title}{Demonstration of an atom transfer process by electron spin resonance}
+      \field{volume}{80}
+      \field{year}{1958}
+      \field{pages}{1518\bibrangedash 1519}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1021/ja01539a060
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja01539a060
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja01539a060
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja01539a060
+      \endverb
+    \endentry
+    \entry{bowers1987}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=371f6071a50081f1e370147678f4e9b1}{%
+           family={Bowers},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi Russell},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=47ae3a96004df8d7f9faa613bf41ea82}{%
+           family={Weitekamp},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{fullhash}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{fullhashraw}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{bibnamehash}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{authorbibnamehash}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{authornamehash}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{authorfullhash}{c0504b0a4ce3b59138d6d36b93a11200}
+      \strng{authorfullhashraw}{c0504b0a4ce3b59138d6d36b93a11200}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{18}
+      \field{title}{Parahydrogen and synthesis allow dramatically enhanced nuclear alignment}
+      \field{volume}{109}
+      \field{year}{1987}
+      \field{pages}{5541\bibrangedash 5542}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1021/ja00252a049
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja00252a049
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja00252a049
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja00252a049
+      \endverb
+    \endentry
     \entry{atkins2010}{book}{}{}
       \name{author}{2}{}{%
         {{hash=768c9606afd59ac272ce600d425a08c7}{%
@@ -46,8 +293,8 @@
       \strng{authornamehash}{adb59290e2150644f98149891e955c79}
       \strng{authorfullhash}{adb59290e2150644f98149891e955c79}
       \strng{authorfullhashraw}{adb59290e2150644f98149891e955c79}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{5th}
@@ -78,8 +325,8 @@
       \strng{authornamehash}{91a6c75c3321e282355c97f13a54940b}
       \strng{authorfullhash}{91a6c75c3321e282355c97f13a54940b}
       \strng{authorfullhashraw}{91a6c75c3321e282355c97f13a54940b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{5-230-13579-4}
@@ -115,8 +362,8 @@
       \strng{authorfullhash}{e31c7ea5d04d7df3974acd8f3b091d3d}
       \strng{authorfullhashraw}{e31c7ea5d04d7df3974acd8f3b091d3d}
       \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-5-94356-719-3}
@@ -152,8 +399,8 @@
       \strng{authorfullhash}{e31c7ea5d04d7df3974acd8f3b091d3d}
       \strng{authorfullhashraw}{e31c7ea5d04d7df3974acd8f3b091d3d}
       \field{extraname}{2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-5-4437-0125-7}
@@ -188,8 +435,8 @@
       \strng{authornamehash}{02d8503b1bf75901fce7171d7ab53dbd}
       \strng{authorfullhash}{02d8503b1bf75901fce7171d7ab53dbd}
       \strng{authorfullhashraw}{02d8503b1bf75901fce7171d7ab53dbd}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-5-4437-0125-7}

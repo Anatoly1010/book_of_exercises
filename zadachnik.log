@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  20 JAN 2026 18:33
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  21 JAN 2026 08:44
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2520,7 +2520,7 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 [105]
 
 [106]
-<images/Fig_2_7_10_dec.png, id=727, 370.45602pt x 324.20322pt>
+<images/Fig_2_7_10_dec.png, id=728, 370.45602pt x 324.20322pt>
 File: images/Fig_2_7_10_dec.png Graphic file (type png)
 <use images/Fig_2_7_10_dec.png>
 Package luatex.def Info: images/Fig_2_7_10_dec.png  used on input line 694.
@@ -2550,12 +2550,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [107<./images/Fig_2_7_10_dec.png>]
 
 [108]
-<images/Fig_2_8_2_dec.png, id=740, 370.31148pt x 332.15292pt>
+<images/Fig_2_8_2_dec.png, id=742, 370.31148pt x 332.15292pt>
 File: images/Fig_2_8_2_dec.png Graphic file (type png)
 <use images/Fig_2_8_2_dec.png>
 Package luatex.def Info: images/Fig_2_8_2_dec.png  used on input line 709.
 (luatex.def)             Requested size: 147.95433pt x 132.71182pt.
-<images/Fig_2_8_3_dec.png, id=741, 370.2633pt x 314.01315pt>
+<images/Fig_2_8_3_dec.png, id=743, 370.2633pt x 314.01315pt>
 File: images/Fig_2_8_3_dec.png Graphic file (type png)
 <use images/Fig_2_8_3_dec.png>
 Package luatex.def Info: images/Fig_2_8_3_dec.png  used on input line 716.
@@ -2571,7 +2571,7 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
 [110<./images/Fig_2_8_3_dec.png>]
-<images/Fig_2_8_6_dec.png, id=755, 375.65945pt x 383.031pt>
+<images/Fig_2_8_6_dec.png, id=758, 375.65945pt x 383.031pt>
 File: images/Fig_2_8_6_dec.png Graphic file (type png)
 <use images/Fig_2_8_6_dec.png>
 Package luatex.def Info: images/Fig_2_8_6_dec.png  used on input line 725.
@@ -2579,7 +2579,7 @@ Package luatex.def Info: images/Fig_2_8_6_dec.png  used on input line 725.
 
 
 [111<./images/Fig_2_8_6_dec.png>]
-<images/Fig_2_9_5_dec.png, id=764, 312.9291pt x 225.84375pt>
+<images/Fig_2_9_5_dec.png, id=768, 312.9291pt x 225.84375pt>
 File: images/Fig_2_9_5_dec.png Graphic file (type png)
 <use images/Fig_2_9_5_dec.png>
 Package luatex.def Info: images/Fig_2_9_5_dec.png  used on input line 739.
@@ -2587,7 +2587,7 @@ Package luatex.def Info: images/Fig_2_9_5_dec.png  used on input line 739.
 
 
 [112<./images/Fig_2_9_5_dec.png>]
-<images/Fig_2_9_10_dec.png, id=770, 192.2382pt x 81.80965pt>
+<images/Fig_2_9_10_dec.png, id=774, 192.2382pt x 81.80965pt>
 File: images/Fig_2_9_10_dec.png Graphic file (type png)
 <use images/Fig_2_9_10_dec.png>
 Package luatex.def Info: images/Fig_2_9_10_dec.png  used on input line 750.
@@ -2647,9 +2647,9 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 7209551 bytes).
+Output written on zadachnik.pdf (121 pages, 7210776 bytes).
 
-PDF statistics: 1053 PDF objects out of 1200 (max. 8388607)
+PDF statistics: 1058 PDF objects out of 1200 (max. 8388607)
  196 named destinations out of 1000 (max. 131072)
  497 words of extra memory for PDF output out of 10000 (max. 100000000)
 

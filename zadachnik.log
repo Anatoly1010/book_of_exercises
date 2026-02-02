@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  21 JAN 2026 08:44
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  2 FEB 2026 15:39
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2398,11 +2398,11 @@ File: images/Fig_2_1_6_dec.png Graphic file (type png)
 <use images/Fig_2_1_6_dec.png>
 Package luatex.def Info: images/Fig_2_1_6_dec.png  used on input line 398.
 (luatex.def)             Requested size: 85.35826pt x 92.97514pt.
-<images/Fig_2_1_7_dec.png, id=607, 152.36925pt x 65.2839pt>
+<images/Fig_2_1_7_dec.png, id=607, 153.2124pt x 66.7293pt>
 File: images/Fig_2_1_7_dec.png Graphic file (type png)
 <use images/Fig_2_1_7_dec.png>
 Package luatex.def Info: images/Fig_2_1_7_dec.png  used on input line 406.
-(luatex.def)             Requested size: 85.35826pt x 36.57268pt.
+(luatex.def)             Requested size: 85.35826pt x 37.17671pt.
 <images/Fig_2_1_9_dec.png, id=608, 165.7392pt x 67.2111pt>
 File: images/Fig_2_1_9_dec.png Graphic file (type png)
 <use images/Fig_2_1_9_dec.png>
@@ -2647,7 +2647,7 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 7210776 bytes).
+Output written on zadachnik.pdf (121 pages, 7195927 bytes).
 
 PDF statistics: 1058 PDF objects out of 1200 (max. 8388607)
  196 named destinations out of 1000 (max. 131072)

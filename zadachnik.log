@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  6 APR 2026 18:16
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  18 MAY 2026 17:03
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2540,7 +2540,7 @@ Underfull \hbox (badness 1810) in paragraph at lines 697--697
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
 
@@ -2619,7 +2619,7 @@ Here is how much of LuaTeX's memory you used:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 280 attribute, 144 glue_spec, 141 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:14,2:2912,3:419,4:338,5:658,6:141,7:7805,8:108,9:1981,10:35,11
+   avail lists: 1:12,2:2908,3:409,4:331,5:656,6:139,7:7560,8:108,9:1980,10:35,11
 :1078,12:1
  54725 multiletter control sequences out of 65536+600000
  531 fonts using 67406223 bytes
@@ -2644,7 +2644,7 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 7196015 bytes).
+Output written on zadachnik.pdf (121 pages, 7196319 bytes).
 
 PDF statistics: 1058 PDF objects out of 1200 (max. 8388607)
  196 named destinations out of 1000 (max. 131072)

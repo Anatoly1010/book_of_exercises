@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  18 MAY 2026 17:03
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  22 MAY 2026 09:06
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2592,8 +2592,14 @@ Package luatex.def Info: images/Fig_2_9_10_dec.png  used on input line 750.
 
 
 [113<./images/Fig_2_9_10_dec.png>]
+<images/Fig_2_9_11_dec.png, id=784, 234.01025pt x 108.11592pt>
+File: images/Fig_2_9_11_dec.png Graphic file (type png)
+<use images/Fig_2_9_11_dec.png>
+Package luatex.def Info: images/Fig_2_9_11_dec.png  used on input line 757.
+(luatex.def)             Requested size: 76.82243pt x 35.49194pt.
 
-[114])
+
+[114<./images/Fig_2_9_11_dec.png>])
 Глава 6.
 
 
@@ -2613,15 +2619,15 @@ Package logreq Info: Writing requests to 'zadachnik.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33567 strings out of 475518
+ 33577 strings out of 475518
  100000,1977958 words of node,token memory allocated
  1863 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 280 attribute, 144 glue_spec, 141 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:12,2:2908,3:409,4:331,5:656,6:139,7:7560,8:108,9:1980,10:35,11
+   avail lists: 1:12,2:2910,3:409,4:333,5:656,6:138,7:7559,8:108,9:1980,10:35,11
 :1078,12:1
- 54725 multiletter control sequences out of 65536+600000
+ 54732 multiletter control sequences out of 65536+600000
  531 fonts using 67406223 bytes
  94i,20n,105p,3798b,3701s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/truetype/google/noto/notoseri
@@ -2644,9 +2650,9 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 7196319 bytes).
+Output written on zadachnik.pdf (121 pages, 7240421 bytes).
 
-PDF statistics: 1058 PDF objects out of 1200 (max. 8388607)
+PDF statistics: 1060 PDF objects out of 1200 (max. 8388607)
  196 named destinations out of 1000 (max. 131072)
  497 words of extra memory for PDF output out of 10000 (max. 100000000)
 

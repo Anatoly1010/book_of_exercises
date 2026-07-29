@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.7.29)  26 MAY 2026 14:14
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  29 JUL 2026 16:41
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -1912,7 +1912,6 @@ Package luatex.def Info: images/Fig_2_1_10.png  used on input line 47.
 (./MainMatter/Chapter_2.2.tex
 
 [17]
-Missing character: There is no х (U+0445) in font zplmr7m!
 <images/Fig_2_2_14.png, id=281, 183.3249pt x 181.3977pt>
 File: images/Fig_2_2_14.png Graphic file (type png)
 <use images/Fig_2_2_14.png>
@@ -1983,6 +1982,13 @@ File: images/Fig_2_4_5.png Graphic file (type png)
 <use images/Fig_2_4_5.png>
 Package luatex.def Info: images/Fig_2_4_5.png  used on input line 32.
 (luatex.def)             Requested size: 79.66771pt x 39.0448pt.
+
+Overfull \hbox (7.1555pt too wide) in paragraph at lines 37--38
+[]\TU/NotoSerif(0)/m/n/8 7. Ка-кие из-ме-не-ния в ко-ли-ч
+е-стве ча-стот и их сим-мет-рии про-изой-дут 
+в ИК-спектре
+ []
+
 
 
 [22<./images/Fig_2_4_4.png><./images/Fig_2_4_5.png>])
@@ -2095,6 +2101,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.07004pt}.
 
 [35]
+Overfull \hbox (32.04263pt too wide) in paragraph at lines 87--87
+[]\TU/NotoSerif(0)/m/n/8 4.6. Срав-не-ние раз-ре-шен-ных 
+сим-мет-рий ко-ле-ба-ний в ра-ма-нов-ской и И
+К-спектроскопии
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2625,7 +2638,7 @@ Here is how much of LuaTeX's memory you used:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 280 attribute, 144 glue_spec, 141 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:12,2:2910,3:409,4:333,5:656,6:138,7:7559,8:108,9:1980,10:35,11
+   avail lists: 1:13,2:2910,3:408,4:333,5:656,6:139,7:7559,8:108,9:1980,10:35,11
 :1078,12:1
  54732 multiletter control sequences out of 65536+600000
  531 fonts using 67406223 bytes
@@ -2650,7 +2663,7 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 7240336 bytes).
+Output written on zadachnik.pdf (121 pages, 7240636 bytes).
 
 PDF statistics: 1060 PDF objects out of 1200 (max. 8388607)
  196 named destinations out of 1000 (max. 131072)

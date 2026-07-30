@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  29 JUL 2026 16:41
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  30 JUL 2026 14:33
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -2165,19 +2165,10 @@ Underfull \vbox (badness 2865) has occurred while \output is active []
 
 
 [43]
-LaTeX Font Info:    Calculating math sizes for size <7.82> on input line 300.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.1485pt on input line 300.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.19281pt on input line 300.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 4.88914pt on input line 300.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.1485pt on input line 300.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.19281pt on input line 300.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 4.88914pt on input line 300.
+Overfull \hbox (2.63576pt too wide) in paragraph at lines 288--313
+ [] 
+ []
+
 
 
 [44]
@@ -2200,7 +2191,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [46]
-Underfull \vbox (badness 3746) has occurred while \output is active []
+Underfull \vbox (badness 3590) has occurred while \output is active []
 
 
 
@@ -2319,9 +2310,6 @@ lm/m/n/8 )[](\OT1/pplx/m/n/8 1\OML/zplm/m/it/8 b[]\OT1/zplm/m/n/8 )[](\OT1/pplx
 
 
 [71<./images/Fig_1_7_8_dec.png>]
-Missing character: There is no А (U+0410) in font zplmr7m!
-Missing character: There is no Е (U+0415) in font zplmr7m!
-
 
 [72]
 Underfull \vbox (badness 7925) has occurred while \output is active []
@@ -2345,15 +2333,6 @@ File: images/Fig_1_9_4_dec.png Graphic file (type png)
 <use images/Fig_1_9_4_dec.png>
 Package luatex.def Info: images/Fig_1_9_4_dec.png  used on input line 322.
 (luatex.def)             Requested size: 113.81102pt x 40.8405pt.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 325.
-
-
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 325.
-
-Missing character: There is no ’ (U+2019) in font pplr9t!
-Missing character: There is no ’ (U+2019) in font pplr9t!
 
 Underfull \hbox (badness 1824) in paragraph at lines 325--325
 \TU/NotoSerif(0)/m/n/8 ные ор-би-та-ли неспа-рен-но-го 
@@ -2462,8 +2441,6 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 [88]
 
 [89]
-Missing character: There is no а (U+0430) in font zplmr7m!
-
 Underfull \vbox (badness 2088) has occurred while \output is active []
 
 
@@ -2489,7 +2466,7 @@ pplx/m/n/8 ,  [] \OML/zplm/m/it/8 \OT1/zplm/m/n/8 )$\TU/NotoSerif(0)/m/n/8 ,
  []
 
 
-Underfull \vbox (badness 1117) has occurred while \output is active []
+Underfull \vbox (badness 1097) has occurred while \output is active []
 
 
 
@@ -2500,6 +2477,14 @@ Underfull \vbox (badness 1117) has occurred while \output is active []
 [96]
 
 [97]
+Overfull \hbox (0.36618pt too wide) in paragraph at lines 645--645
+\TU/NotoSerif(0)/m/n/8 би-та-ли $[]$ оста-ют-ся несвя-зы-
+ва-ю-щи-ми. Элек-трон-ная кон-фи-гу-ра-ция $\OT1/
+zplm/m/n/8 (\OT1/pplx/m/n/8 1\OML/zplm/m/it/8 []\OT1/zplm/m/n/8 )[](\OT1/pplx/
+m/n/8 1\OML/zplm/m/it/8 []\OT1/zplm/m/n/8 )[]$\TU/NotoSerif(0)/m/n/8 ,
+ []
+
+
 
 [98]
 <images/Fig_2_5_7_dec.png, id=689, 480.47505pt x 157.66905pt>
@@ -2507,9 +2492,6 @@ File: images/Fig_2_5_7_dec.png Graphic file (type png)
 <use images/Fig_2_5_7_dec.png>
 Package luatex.def Info: images/Fig_2_5_7_dec.png  used on input line 652.
 (luatex.def)             Requested size: 199.16928pt x 65.35684pt.
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
 
 
 [99<./images/Fig_2_5_7_dec.png>]
@@ -2565,6 +2547,12 @@ File: images/Fig_2_8_2_dec.png Graphic file (type png)
 <use images/Fig_2_8_2_dec.png>
 Package luatex.def Info: images/Fig_2_8_2_dec.png  used on input line 709.
 (luatex.def)             Requested size: 147.95433pt x 132.71182pt.
+
+Underfull \hbox (badness 1097) in paragraph at lines 712--712
+\TU/NotoSerif(0)/m/n/8 Без об-ме-на от-но-си-тель-но це
+н-тра
+ []
+
 <images/Fig_2_8_3_dec.png, id=743, 370.2633pt x 314.01315pt>
 File: images/Fig_2_8_3_dec.png Graphic file (type png)
 <use images/Fig_2_8_3_dec.png>
@@ -2632,16 +2620,16 @@ Package logreq Info: Writing requests to 'zadachnik.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33577 strings out of 475518
+ 33464 strings out of 475518
  100000,1977958 words of node,token memory allocated
  1863 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 280 attribute, 144 glue_spec, 141 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:13,2:2910,3:408,4:333,5:656,6:139,7:7559,8:108,9:1980,10:35,11
-:1078,12:1
- 54732 multiletter control sequences out of 65536+600000
- 531 fonts using 67406223 bytes
+   avail lists: 1:12,2:2913,3:411,4:334,5:658,6:139,7:7675,8:107,9:1980,10:35,11
+:1081,12:1
+ 54685 multiletter control sequences out of 65536+600000
+ 477 fonts using 64097327 bytes
  94i,20n,105p,3798b,3701s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/truetype/google/noto/notoseri
 f-bolditalic.ttf>{C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ba
@@ -2663,7 +2651,7 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (121 pages, 7240636 bytes).
+Output written on zadachnik.pdf (121 pages, 7240696 bytes).
 
 PDF statistics: 1060 PDF objects out of 1200 (max. 8388607)
  196 named destinations out of 1000 (max. 131072)

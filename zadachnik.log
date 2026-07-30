@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  30 JUL 2026 18:18
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  30 JUL 2026 19:06
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -1792,7 +1792,7 @@ Underfull \vbox (badness 1043) has occurred while \output is active []
 <images/Fig_1_7_1.png, id=210, 79.78609pt x 102.18977pt>
 File: images/Fig_1_7_1.png Graphic file (type png)
 <use images/Fig_1_7_1.png>
-Package luatex.def Info: images/Fig_1_7_1.png  used on input line 16.
+Package luatex.def Info: images/Fig_1_7_1.png  used on input line 18.
 (luatex.def)             Requested size: 39.83385pt x 51.01834pt.
 
 
@@ -1855,16 +1855,15 @@ File: images/Fig_1_8_9.png Graphic file (type png)
 <use images/Fig_1_8_9.png>
 Package luatex.def Info: images/Fig_1_8_9.png  used on input line 51.
 (luatex.def)             Requested size: 54.06023pt x 49.84862pt.
-
-
-[13<./images/Fig_1_8_4.png><./images/Fig_1_8_6.png><./images/Fig_1_8_11.png><./i
-mages/Fig_1_8_9.png>]
-<images/Fig_1_8_12.png, id=247, 151.5261pt x 78.2925pt>
+<images/Fig_1_8_12.png, id=239, 151.5261pt x 78.2925pt>
 File: images/Fig_1_8_12.png Graphic file (type png)
 <use images/Fig_1_8_12.png>
 Package luatex.def Info: images/Fig_1_8_12.png  used on input line 59.
-(luatex.def)             Requested size: 113.81102pt x 58.80524pt.
-) (./MainMatter/Chapter_1.9.tex
+(luatex.def)             Requested size: 91.04881pt x 47.04395pt.
+
+
+[13<./images/Fig_1_8_4.png><./images/Fig_1_8_6.png><./images/Fig_1_8_11.png><./i
+mages/Fig_1_8_9.png>]) (./MainMatter/Chapter_1.9.tex
 <images/Fig_1_9_6.png, id=248, 112.30759pt x 134.56674pt>
 File: images/Fig_1_9_6.png Graphic file (type png)
 <use images/Fig_1_9_6.png>
@@ -2355,15 +2354,15 @@ Package luatex.def Info: images/Fig_1_7_14_dec.png  used on input line 297.
 <images/Fig_1_9_3_dec.png, id=587, 206.6922pt x 196.93575pt>
 File: images/Fig_1_9_3_dec.png Graphic file (type png)
 <use images/Fig_1_9_3_dec.png>
-Package luatex.def Info: images/Fig_1_9_3_dec.png  used on input line 326.
+Package luatex.def Info: images/Fig_1_9_3_dec.png  used on input line 327.
 (luatex.def)             Requested size: 108.12047pt x 103.01717pt.
 <images/Fig_1_9_4_dec.png, id=588, 223.5552pt x 80.2197pt>
 File: images/Fig_1_9_4_dec.png Graphic file (type png)
 <use images/Fig_1_9_4_dec.png>
-Package luatex.def Info: images/Fig_1_9_4_dec.png  used on input line 333.
+Package luatex.def Info: images/Fig_1_9_4_dec.png  used on input line 334.
 (luatex.def)             Requested size: 113.81102pt x 40.8405pt.
 
-Underfull \hbox (badness 1824) in paragraph at lines 336--336
+Underfull \hbox (badness 1824) in paragraph at lines 337--337
 \TU/NotoSerif(0)/m/n/8 ные ор-би-та-ли неспа-рен-но-го 
 элек-тро-на:
  []
@@ -2376,12 +2375,12 @@ Underfull \hbox (badness 1824) in paragraph at lines 336--336
 <images/Fig_1_9_11_dec.png, id=599, 72.14955pt x 81.54465pt>
 File: images/Fig_1_9_11_dec.png Graphic file (type png)
 <use images/Fig_1_9_11_dec.png>
-Package luatex.def Info: images/Fig_1_9_11_dec.png  used on input line 346.
+Package luatex.def Info: images/Fig_1_9_11_dec.png  used on input line 347.
 (luatex.def)             Requested size: 34.1433pt x 38.58977pt.
 <images/Fig_1_9_12_dec.png, id=600, 122.1363pt x 82.02644pt>
 File: images/Fig_1_9_12_dec.png Graphic file (type png)
 <use images/Fig_1_9_12_dec.png>
-Package luatex.def Info: images/Fig_1_9_12_dec.png  used on input line 353.
+Package luatex.def Info: images/Fig_1_9_12_dec.png  used on input line 354.
 (luatex.def)             Requested size: 54.06023pt x 36.307pt.
 
 
@@ -2393,22 +2392,22 @@ Package luatex.def Info: images/Fig_1_9_12_dec.png  used on input line 353.
 <images/Fig_2_1_1_dec.png, id=616, 156.46455pt x 91.7829pt>
 File: images/Fig_2_1_1_dec.png Graphic file (type png)
 <use images/Fig_2_1_1_dec.png>
-Package luatex.def Info: images/Fig_2_1_1_dec.png  used on input line 377.
+Package luatex.def Info: images/Fig_2_1_1_dec.png  used on input line 378.
 (luatex.def)             Requested size: 85.35826pt x 50.0718pt.
 <images/Fig_2_1_2_dec.png, id=617, 156.46455pt x 64.44075pt>
 File: images/Fig_2_1_2_dec.png Graphic file (type png)
 <use images/Fig_2_1_2_dec.png>
-Package luatex.def Info: images/Fig_2_1_2_dec.png  used on input line 384.
+Package luatex.def Info: images/Fig_2_1_2_dec.png  used on input line 385.
 (luatex.def)             Requested size: 85.35826pt x 35.1554pt.
 <images/Fig_2_1_4_dec.png, id=618, 319.31294pt x 150.20116pt>
 File: images/Fig_2_1_4_dec.png Graphic file (type png)
 <use images/Fig_2_1_4_dec.png>
-Package luatex.def Info: images/Fig_2_1_4_dec.png  used on input line 393.
+Package luatex.def Info: images/Fig_2_1_4_dec.png  used on input line 394.
 (luatex.def)             Requested size: 184.9429pt x 86.99754pt.
 <images/Fig_2_1_5_dec.png, id=619, 156.3441pt x 67.452pt>
 File: images/Fig_2_1_5_dec.png Graphic file (type png)
 <use images/Fig_2_1_5_dec.png>
-Package luatex.def Info: images/Fig_2_1_5_dec.png  used on input line 401.
+Package luatex.def Info: images/Fig_2_1_5_dec.png  used on input line 402.
 (luatex.def)             Requested size: 85.35826pt x 36.82802pt.
 
 
@@ -2417,17 +2416,17 @@ ec.png>]
 <images/Fig_2_1_6_dec.png, id=627, 163.3302pt x 177.90465pt>
 File: images/Fig_2_1_6_dec.png Graphic file (type png)
 <use images/Fig_2_1_6_dec.png>
-Package luatex.def Info: images/Fig_2_1_6_dec.png  used on input line 409.
+Package luatex.def Info: images/Fig_2_1_6_dec.png  used on input line 410.
 (luatex.def)             Requested size: 85.35826pt x 92.97514pt.
 <images/Fig_2_1_7_dec.png, id=628, 153.2124pt x 66.7293pt>
 File: images/Fig_2_1_7_dec.png Graphic file (type png)
 <use images/Fig_2_1_7_dec.png>
-Package luatex.def Info: images/Fig_2_1_7_dec.png  used on input line 417.
+Package luatex.def Info: images/Fig_2_1_7_dec.png  used on input line 418.
 (luatex.def)             Requested size: 85.35826pt x 37.17671pt.
 <images/Fig_2_1_9_dec.png, id=629, 165.7392pt x 67.2111pt>
 File: images/Fig_2_1_9_dec.png Graphic file (type png)
 <use images/Fig_2_1_9_dec.png>
-Package luatex.def Info: images/Fig_2_1_9_dec.png  used on input line 427.
+Package luatex.def Info: images/Fig_2_1_9_dec.png  used on input line 428.
 (luatex.def)             Requested size: 85.35826pt x 34.61563pt.
 
 
@@ -2436,22 +2435,22 @@ ec.png><./images/Fig_2_1_9_dec.png>]
 <images/Fig_2_1_10_dec.png, id=638, 349.18456pt x 153.6942pt>
 File: images/Fig_2_1_10_dec.png Graphic file (type png)
 <use images/Fig_2_1_10_dec.png>
-Package luatex.def Info: images/Fig_2_1_10_dec.png  used on input line 436.
+Package luatex.def Info: images/Fig_2_1_10_dec.png  used on input line 437.
 (luatex.def)             Requested size: 184.9429pt x 81.40358pt.
 <images/Fig_2_1_11_dec.png, id=639, 180.9159pt x 151.40565pt>
 File: images/Fig_2_1_11_dec.png Graphic file (type png)
 <use images/Fig_2_1_11_dec.png>
-Package luatex.def Info: images/Fig_2_1_11_dec.png  used on input line 445.
+Package luatex.def Info: images/Fig_2_1_11_dec.png  used on input line 446.
 (luatex.def)             Requested size: 85.35826pt x 71.43327pt.
 <images/Fig_2_1_12_dec.png, id=640, 327.624pt x 141.04695pt>
 File: images/Fig_2_1_12_dec.png Graphic file (type png)
 <use images/Fig_2_1_12_dec.png>
-Package luatex.def Info: images/Fig_2_1_12_dec.png  used on input line 453.
+Package luatex.def Info: images/Fig_2_1_12_dec.png  used on input line 454.
 (luatex.def)             Requested size: 184.9429pt x 79.6228pt.
 <images/Fig_2_1_13_dec.png, id=641, 257.2812pt x 92.7465pt>
 File: images/Fig_2_1_13_dec.png Graphic file (type png)
 <use images/Fig_2_1_13_dec.png>
-Package luatex.def Info: images/Fig_2_1_13_dec.png  used on input line 461.
+Package luatex.def Info: images/Fig_2_1_13_dec.png  used on input line 462.
 (luatex.def)             Requested size: 227.62204pt x 82.05872pt.
 
 
@@ -2478,7 +2477,7 @@ Underfull \vbox (badness 2088) has occurred while \output is active []
 <images/Fig_2_2_15_dec.png, id=674, 140.49287pt x 179.66322pt>
 File: images/Fig_2_2_15_dec.png Graphic file (type png)
 <use images/Fig_2_2_15_dec.png>
-Package luatex.def Info: images/Fig_2_2_15_dec.png  used on input line 565.
+Package luatex.def Info: images/Fig_2_2_15_dec.png  used on input line 566.
 (luatex.def)             Requested size: 99.58464pt x 127.34793pt.
 
 
@@ -2487,7 +2486,7 @@ Package luatex.def Info: images/Fig_2_2_15_dec.png  used on input line 565.
 [96]
 
 [97]
-Overfull \hbox (0.10754pt too wide) in paragraph at lines 608--608
+Overfull \hbox (0.10754pt too wide) in paragraph at lines 609--609
 \TU/NotoSerif(0)/m/n/8 но-фор рас-пре-де-лен рав-но-ме
 р-но по об-раз-цу, то-гда $[] \OMS/zplm/m/n/8  \OT1/zplm/m/n/
 8 ([] \OML/zplm/m/it/8  [] \OT1/pplx/m/n/8 ,  [] \OML/zplm/m/it/8  [] \OT1/
@@ -2506,7 +2505,7 @@ Underfull \vbox (badness 1097) has occurred while \output is active []
 [100]
 
 [101]
-Overfull \hbox (0.36618pt too wide) in paragraph at lines 656--656
+Overfull \hbox (0.36618pt too wide) in paragraph at lines 657--657
 \TU/NotoSerif(0)/m/n/8 би-та-ли $[]$ оста-ют-ся несвя-зы-
 ва-ю-щи-ми. Элек-трон-ная кон-фи-гу-ра-ция $\OT1/
 zplm/m/n/8 (\OT1/pplx/m/n/8 1\OML/zplm/m/it/8 []\OT1/zplm/m/n/8 )[](\OT1/pplx/
@@ -2519,7 +2518,7 @@ m/n/8 1\OML/zplm/m/it/8 []\OT1/zplm/m/n/8 )[]$\TU/NotoSerif(0)/m/n/8 ,
 <images/Fig_2_5_7_dec.png, id=709, 480.47505pt x 157.66905pt>
 File: images/Fig_2_5_7_dec.png Graphic file (type png)
 <use images/Fig_2_5_7_dec.png>
-Package luatex.def Info: images/Fig_2_5_7_dec.png  used on input line 663.
+Package luatex.def Info: images/Fig_2_5_7_dec.png  used on input line 664.
 (luatex.def)             Requested size: 199.16928pt x 65.35684pt.
 
 
@@ -2544,21 +2543,21 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 <images/Fig_2_7_10_dec.png, id=748, 370.45602pt x 324.20322pt>
 File: images/Fig_2_7_10_dec.png Graphic file (type png)
 <use images/Fig_2_7_10_dec.png>
-Package luatex.def Info: images/Fig_2_7_10_dec.png  used on input line 705.
+Package luatex.def Info: images/Fig_2_7_10_dec.png  used on input line 706.
 (luatex.def)             Requested size: 194.90137pt x 170.56541pt.
 
-Underfull \hbox (badness 3250) in paragraph at lines 708--708
+Underfull \hbox (badness 3250) in paragraph at lines 709--709
 \TU/NotoSerif(0)/m/n/8 ви-ва-лент-ных ядер рав-на:
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 708--708
+Underfull \hbox (badness 1668) in paragraph at lines 709--709
 \TU/NotoSerif(0)/m/n/8 где $\OML/zplm/m/it/8 F$ \TU/NotoSerif(0)/m/n/8 – 
 пол-ный ядер-ный
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 708--708
+Underfull \hbox (badness 1810) in paragraph at lines 709--709
 \TU/NotoSerif(0)/m/n/8 спин, $\OML/zplm/m/it/8 M[]$ \TU/NotoSerif(0)/m/n/8 
 – его про-ек-ция
  []
@@ -2574,10 +2573,10 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 <images/Fig_2_8_2_dec.png, id=762, 370.31148pt x 332.15292pt>
 File: images/Fig_2_8_2_dec.png Graphic file (type png)
 <use images/Fig_2_8_2_dec.png>
-Package luatex.def Info: images/Fig_2_8_2_dec.png  used on input line 720.
+Package luatex.def Info: images/Fig_2_8_2_dec.png  used on input line 721.
 (luatex.def)             Requested size: 147.95433pt x 132.71182pt.
 
-Underfull \hbox (badness 1097) in paragraph at lines 723--723
+Underfull \hbox (badness 1097) in paragraph at lines 724--724
 \TU/NotoSerif(0)/m/n/8 Без об-ме-на от-но-си-тель-но це
 н-тра
  []
@@ -2585,7 +2584,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 723--723
 <images/Fig_2_8_3_dec.png, id=763, 370.2633pt x 314.01315pt>
 File: images/Fig_2_8_3_dec.png Graphic file (type png)
 <use images/Fig_2_8_3_dec.png>
-Package luatex.def Info: images/Fig_2_8_3_dec.png  used on input line 727.
+Package luatex.def Info: images/Fig_2_8_3_dec.png  used on input line 728.
 (luatex.def)             Requested size: 147.95433pt x 125.47845pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2601,7 +2600,7 @@ Underfull \vbox (badness 1478) has occurred while \output is active []
 <images/Fig_2_8_6_dec.png, id=778, 375.65945pt x 383.031pt>
 File: images/Fig_2_8_6_dec.png Graphic file (type png)
 <use images/Fig_2_8_6_dec.png>
-Package luatex.def Info: images/Fig_2_8_6_dec.png  used on input line 736.
+Package luatex.def Info: images/Fig_2_8_6_dec.png  used on input line 737.
 (luatex.def)             Requested size: 147.95433pt x 150.85431pt.
 
 
@@ -2609,7 +2608,7 @@ Package luatex.def Info: images/Fig_2_8_6_dec.png  used on input line 736.
 <images/Fig_2_9_5_dec.png, id=789, 312.9291pt x 225.84375pt>
 File: images/Fig_2_9_5_dec.png Graphic file (type png)
 <use images/Fig_2_9_5_dec.png>
-Package luatex.def Info: images/Fig_2_9_5_dec.png  used on input line 750.
+Package luatex.def Info: images/Fig_2_9_5_dec.png  used on input line 751.
 (luatex.def)             Requested size: 147.95433pt x 106.78064pt.
 
 
@@ -2617,7 +2616,7 @@ Package luatex.def Info: images/Fig_2_9_5_dec.png  used on input line 750.
 <images/Fig_2_9_10_dec.png, id=795, 192.2382pt x 81.80965pt>
 File: images/Fig_2_9_10_dec.png Graphic file (type png)
 <use images/Fig_2_9_10_dec.png>
-Package luatex.def Info: images/Fig_2_9_10_dec.png  used on input line 761.
+Package luatex.def Info: images/Fig_2_9_10_dec.png  used on input line 762.
 (luatex.def)             Requested size: 147.95433pt x 62.96489pt.
 
 
@@ -2625,7 +2624,7 @@ Package luatex.def Info: images/Fig_2_9_10_dec.png  used on input line 761.
 <images/Fig_2_9_11_dec.png, id=805, 234.01025pt x 108.11592pt>
 File: images/Fig_2_9_11_dec.png Graphic file (type png)
 <use images/Fig_2_9_11_dec.png>
-Package luatex.def Info: images/Fig_2_9_11_dec.png  used on input line 768.
+Package luatex.def Info: images/Fig_2_9_11_dec.png  used on input line 769.
 (luatex.def)             Requested size: 76.82243pt x 35.49194pt.
 
 
@@ -2655,7 +2654,7 @@ Here is how much of LuaTeX's memory you used:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 280 attribute, 144 glue_spec, 141 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:13,2:2910,3:409,4:331,5:656,6:142,7:7676,8:106,9:1981,10:35,11
+   avail lists: 1:16,2:2912,3:408,4:331,5:655,6:144,7:7676,8:107,9:1980,10:35,11
 :1081
  54699 multiletter control sequences out of 65536+600000
  477 fonts using 64097327 bytes
@@ -2680,7 +2679,7 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (125 pages, 7571449 bytes).
+Output written on zadachnik.pdf (125 pages, 7571895 bytes).
 
 PDF statistics: 1080 PDF objects out of 1200 (max. 8388607)
  200 named destinations out of 1000 (max. 131072)

@@ -1,0 +1,11 @@
+% Обложка: рисунок во всю страницу, название набрано внутри рисунка.
+
+\newgeometry{margin=0pt}
+\thispagestyle{empty}
+% нулевой по высоте бокс, иначе картинка в полный лист не помещается на страницу
+\noindent\makebox[0pt][l]{\raisebox{-\paperheight}[0pt][0pt]{%
+    \includegraphics[width=\paperwidth,height=\paperheight]{images/cover_kran_zadachnik.pdf}}}
+\clearpage
+\restoregeometry
+% пустой оборот обложки, без номера страницы
+\thispagestyle{empty}\null\clearpage

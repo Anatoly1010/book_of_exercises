@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  10 NOV 2026 09:56
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2026.7.2)  17 NOV 2026 11:09
  restricted system commands enabled.
 **zadachnik.tex
 (./zadachnik.tex
@@ -1851,41 +1851,41 @@ Underfull \vbox (badness 1043) has occurred while \output is active []
 \@framewidth=\dimen266
 \@wherebottom=\dimen267
 )
-<images/Fig_1_7_1.png, id=452, 79.78609pt x 102.18977pt>
+<images/Fig_1_7_1.png, id=450, 79.78609pt x 102.18977pt>
 File: images/Fig_1_7_1.png Graphic file (type png)
 <use images/Fig_1_7_1.png>
-Package luatex.def Info: images/Fig_1_7_1.png  used on input line 19.
+Package luatex.def Info: images/Fig_1_7_1.png  used on input line 13.
 (luatex.def)             Requested size: 39.83385pt x 51.01834pt.
 
 
-[10]
-<images/Fig_1_7_2.png, id=475, 85.71222pt x 105.5142pt>
+[10<./images/Fig_1_7_1.png>]
+<images/Fig_1_7_2.png, id=476, 85.71222pt x 105.5142pt>
 File: images/Fig_1_7_2.png Graphic file (type png)
 <use images/Fig_1_7_2.png>
-Package luatex.def Info: images/Fig_1_7_2.png  used on input line 30.
+Package luatex.def Info: images/Fig_1_7_2.png  used on input line 27.
 (luatex.def)             Requested size: 48.36967pt x 59.54478pt.
-<images/Fig_1_7_6.png, id=478, 79.67767pt x 47.33685pt>
+<images/Fig_1_7_6.png, id=479, 79.67767pt x 47.33685pt>
 File: images/Fig_1_7_6.png Graphic file (type png)
 <use images/Fig_1_7_6.png>
-Package luatex.def Info: images/Fig_1_7_6.png  used on input line 40.
+Package luatex.def Info: images/Fig_1_7_6.png  used on input line 37.
 (luatex.def)             Requested size: 48.36967pt x 28.73674pt.
-<images/Fig_1_7_10.png, id=483, 173.448pt x 182.98764pt>
+<images/Fig_1_7_10.png, id=484, 173.448pt x 182.98764pt>
 File: images/Fig_1_7_10.png Graphic file (type png)
 <use images/Fig_1_7_10.png>
-Package luatex.def Info: images/Fig_1_7_10.png  used on input line 54.
+Package luatex.def Info: images/Fig_1_7_10.png  used on input line 51.
 (luatex.def)             Requested size: 56.9055pt x 60.03429pt.
 
 
-[11<./images/Fig_1_7_1.png><./images/Fig_1_7_2.png><./images/Fig_1_7_6.png>]
+[11<./images/Fig_1_7_2.png><./images/Fig_1_7_6.png>]
 <images/Fig_1_7_11.png, id=508, 99.9735pt x 101.178pt>
 File: images/Fig_1_7_11.png Graphic file (type png)
 <use images/Fig_1_7_11.png>
-Package luatex.def Info: images/Fig_1_7_11.png  used on input line 62.
+Package luatex.def Info: images/Fig_1_7_11.png  used on input line 59.
 (luatex.def)             Requested size: 45.5244pt x 46.0731pt.
 <images/Fig_1_7_13.png, id=511, 153.09195pt x 97.8054pt>
 File: images/Fig_1_7_13.png Graphic file (type png)
 <use images/Fig_1_7_13.png>
-Package luatex.def Info: images/Fig_1_7_13.png  used on input line 72.
+Package luatex.def Info: images/Fig_1_7_13.png  used on input line 69.
 (luatex.def)             Requested size: 76.82243pt x 49.08015pt.
 )
 (./MainMatter/Chapter_1.8.tex
@@ -2747,8 +2747,8 @@ Here is how much of LuaTeX's memory you used:
    8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 9 sub_mlist
 , 3 glyph, 282 attribute, 144 glue_spec, 142 attribute_list, 1 write, 2 pdf_acti
 on nodes
-   avail lists: 1:16,2:2911,3:417,4:336,5:658,6:144,7:7898,8:107,9:1980,10:35,11
-:1097,12:1
+   avail lists: 1:17,2:2911,3:420,4:335,5:657,6:144,7:7898,8:107,9:1980,10:35,11
+:1097
  54752 multiletter control sequences out of 65536+600000
  477 fonts using 64097327 bytes
  94i,20n,105p,3798b,3701s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2772,7 +2772,7 @@ hpazo/fplmri.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public
 type1/urw/palatino/uplb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on zadachnik.pdf (133 pages, 7740200 bytes).
+Output written on zadachnik.pdf (133 pages, 7740196 bytes).
 
 PDF statistics: 2148 PDF objects out of 2487 (max. 8388607)
  670 named destinations out of 1000 (max. 131072)
